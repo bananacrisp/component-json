@@ -1,11 +1,1 @@
-&lt;div class="container">
- &lt;div class="row">
-  &lt;div class="col">&lt;/div>
-  &lt;div class="col">&lt;/div>
-  &lt;div class="col yo from gitub">&lt;/div>
-  &lt;div class="col hello-from-github">&lt;/div>
- &lt;/div>
-&lt;/div>
-
-
-&lt;span class="hljs-tag" <div class="container">
+<div class="container">Something</div>
