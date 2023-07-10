@@ -1,5 +1,8 @@
-<section class="section">
- <div class="container">
-  <div class="col"></div>
- </div>
-</section>
+&lt;div class="container">
+ &lt;div class="row">
+  &lt;div class="col">&lt;/div>
+  &lt;div class="col">&lt;/div>
+  &lt;div class="col">&lt;/div>
+  &lt;div class="col">&lt;/div>
+ &lt;/div>
+&lt;/div>
